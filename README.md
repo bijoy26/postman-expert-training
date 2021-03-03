@@ -31,9 +31,12 @@
 1. Check Postman student programs page : [Student Programs](https://www.postman.com/company/student-program/) <br>
 1. Fill up and submit the application : [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeXYUXbptNSve8dzquJzV6O3PtfWaSqx-Y1BjemYoM9m9168A/viewform) <br>
 1. Check out the [**Learning Center**](https://learning.postman.com/) and go through the **docs**.
-1. Visit the [**Student Expert collection**](https://bit.ly/student-workspace) and click **Fork** to copy it into your own workspace. 
-Send the first request and follow the steps in the response to complete the training.
+1. Visit the [**Student Expert collection**](https://bit.ly/student-workspace) and click **Fork** to copy it into your own workspace.Send the first request and follow the steps in the response to complete the training.
 1. After completing the training, fill out the reporting form with your collection URL.
-1. For assitance, interact with Community forum : [Forum For Postman Training](https://community.postman.com/c/training/38)
+1. For assitance, interact with Community forum : [Forum For Postman Training](https://community.postman.com/c/training/38).  
+1. After validation of 1-2 weeks, receive the **Postman Student Expert** Badge via [Badgr Platform](https://info.badgr.com/) which follows [Open Badges v2.0 standards](https://www.imsglobal.org/activity/digital-badges).
+
+
+
 
 ----
