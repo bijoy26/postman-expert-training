@@ -13,7 +13,7 @@
 [![first-timers-only](https://img.shields.io/badge/postman-student%20expert-orange?style=for-the-badge&logo=appveyor)](https://badgr.com/public/assertions/dTNNxrmkS2KzM5QZIu-v9A?identity__email=anjum.bijoy@gmail.com)
 
 ## :scroll: What's over here?
-**Training materials &amp; notes for **Postman Student Expert** program.**
+**Training materials &amp; my personal notes for **Postman Student Expert** program.**
 
 ## :scroll: What stuffs do I need to master?
 **This Training series covers the following topics :**
