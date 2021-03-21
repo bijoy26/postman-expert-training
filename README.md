@@ -34,7 +34,7 @@
 1. Visit the [**Student Expert collection**](https://bit.ly/student-workspace) and click **Fork** to copy it into your own workspace.Send the first request and follow the steps in the response to complete the training.
 1. After completing the training, fill out the reporting form with your collection URL.
 1. For assitance, interact with Community forum : [Forum For Postman Training](https://community.postman.com/c/training/38).  
-1. After validation of 1-2 weeks, receive the **Postman Student Expert** Badge via [Badgr Platform](https://info.badgr.com/) which follows [Open Badges v2.0 standards](https://www.imsglobal.org/activity/digital-badges).
+1. After validation of 1-2 weeks, receive the **Postman Student Expert** Badge via [Badgr Platform](https://info.badgr.com/) which follows [Open Badges v2.0 standards](https://www.imsglobal.org/activity/digital-badges) and the **Community Discourse Badge** on _Postman Community Forum_.
 
 
 
