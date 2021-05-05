@@ -30,7 +30,7 @@ A **variable** can be used to minimize visibility of these sensitive credentials
 3. In Collections on the left, select the parent student expert collection (click `…` and choose **Edit** if you're in the app).
 4. Open the Authorization tab. Postman will add the API key details to the header for every request using the name `match_key` and the value specified by the referenced `email_key` variable.
 5. Add a variable to the collection also via the Edit menu—choosing the Variables tab. Use the name `email_key` and enter your **email address** in both value fields.
-   > > Postman will now append your email address to each child request to identify you as the client.
+   > Postman will now append your email address to each child request to identify you as the client.
 
 ## POST Body Data
 
@@ -51,8 +51,8 @@ A **variable** can be used to minimize visibility of these sensitive credentials
 
 There are lots of other dynamic variables you can use in your requests for values you want to _calculate at runtime_, or if you want to use demo data instead of real values.
 
-> > For example, the `{{randomDateFuture}}` is a dynamic variable.
-> > Postman will add a random future date when you send your request.
+> For example, the `{{randomDateFuture}}` is a dynamic variable.
+> Postman will add a random future date when you send your request.
 
 ## PUT Data
 
